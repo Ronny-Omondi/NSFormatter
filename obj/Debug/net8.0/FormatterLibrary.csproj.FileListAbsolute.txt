@@ -1,0 +1,12 @@
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\bin\Debug\net8.0\FormatterLibrary.deps.json
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\bin\Debug\net8.0\FormatterLibrary.dll
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\bin\Debug\net8.0\FormatterLibrary.pdb
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.csproj.AssemblyReference.cache
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.AssemblyInfoInputs.cache
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.AssemblyInfo.cs
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.dll
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\refint\FormatterLibrary.dll
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\FormatterLibrary.pdb
+C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\obj\Debug\net8.0\ref\FormatterLibrary.dll

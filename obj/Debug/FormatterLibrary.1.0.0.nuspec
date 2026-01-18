@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FormatterLibrary</id>
+    <version>1.0.0</version>
+    <authors>Ronny omondi</authors>
+    <description>A service that format responses in a specified format i.e json,csv</description>
+    <tags>library sample dotnet</tags>
+    <repository type="git" url="https://github.com/Nanoservice-Team/NSResponseFormatter" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="CsvHelper" version="33.1.0" exclude="Build,Analyzers" />
+        <dependency id="MessagePack" version="3.1.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.3.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="10.0.2" exclude="Build,Analyzers" />
+        <dependency id="YamlDotNet" version="16.3.0" exclude="Build,Analyzers" />
+        <dependency id="protobuf-net" version="3.2.56" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\RONNY OMONDI\OneDrive\Desktop\FormatterLibrary\bin\Debug\net8.0\FormatterLibrary.dll" target="lib\net8.0\FormatterLibrary.dll" />
+  </files>
+</package>
